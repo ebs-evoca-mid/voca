@@ -1,0 +1,626 @@
+{
+  "switchDate": "2026-09-01",
+  "description": "EBS 단추플러스 중학 VOCA 학습장 QR (9/1 전환)",
+  "items": {
+    "1": {
+      "name": "VOCA 메인",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/vocaMain.ebs&in=q"
+    },
+    "2": {
+      "name": "기본 인트로",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/intro.ebs?wordLevel=10&in=q"
+    },
+    "3": {
+      "name": "DAY 01",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=10&stdyDay=01&in=q"
+    },
+    "4": {
+      "name": "DAY 02",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=10&stdyDay=02&in=q"
+    },
+    "5": {
+      "name": "DAY 03",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=10&stdyDay=03&in=q"
+    },
+    "6": {
+      "name": "DAY 04",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=10&stdyDay=04&in=q"
+    },
+    "7": {
+      "name": "DAY 05",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=10&stdyDay=05&in=q"
+    },
+    "8": {
+      "name": "DAY 06",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=10&stdyDay=06&in=q"
+    },
+    "9": {
+      "name": "DAY 07",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=10&stdyDay=07&in=q"
+    },
+    "10": {
+      "name": "DAY 08",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=10&stdyDay=08&in=q"
+    },
+    "11": {
+      "name": "DAY 09",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=10&stdyDay=09&in=q"
+    },
+    "12": {
+      "name": "DAY 10",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=10&stdyDay=10&in=q"
+    },
+    "13": {
+      "name": "DAY 11",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=10&stdyDay=11&in=q"
+    },
+    "14": {
+      "name": "DAY 12",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=10&stdyDay=12&in=q"
+    },
+    "15": {
+      "name": "DAY 13",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=10&stdyDay=13&in=q"
+    },
+    "16": {
+      "name": "DAY 14",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=10&stdyDay=14&in=q"
+    },
+    "17": {
+      "name": "DAY 15",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=10&stdyDay=15&in=q"
+    },
+    "18": {
+      "name": "DAY 16",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=10&stdyDay=16&in=q"
+    },
+    "19": {
+      "name": "DAY 17",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=10&stdyDay=17&in=q"
+    },
+    "20": {
+      "name": "DAY 18",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=10&stdyDay=18&in=q"
+    },
+    "21": {
+      "name": "DAY 19",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=10&stdyDay=19&in=q"
+    },
+    "22": {
+      "name": "DAY 20",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=10&stdyDay=20&in=q"
+    },
+    "23": {
+      "name": "DAY 21",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=10&stdyDay=21&in=q"
+    },
+    "24": {
+      "name": "DAY 22",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=10&stdyDay=22&in=q"
+    },
+    "25": {
+      "name": "DAY 23",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=10&stdyDay=23&in=q"
+    },
+    "26": {
+      "name": "DAY 24",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=10&stdyDay=24&in=q"
+    },
+    "27": {
+      "name": "DAY 25",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=10&stdyDay=25&in=q"
+    },
+    "28": {
+      "name": "DAY 26",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=10&stdyDay=26&in=q"
+    },
+    "29": {
+      "name": "DAY 27",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=10&stdyDay=27&in=q"
+    },
+    "30": {
+      "name": "DAY 28",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=10&stdyDay=28&in=q"
+    },
+    "31": {
+      "name": "DAY 29",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=10&stdyDay=29&in=q"
+    },
+    "32": {
+      "name": "DAY 30",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=10&stdyDay=30&in=q"
+    },
+    "33": {
+      "name": "DAY 31",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=10&stdyDay=31&in=q"
+    },
+    "34": {
+      "name": "DAY 32",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=10&stdyDay=32&in=q"
+    },
+    "35": {
+      "name": "DAY 33",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=10&stdyDay=33&in=q"
+    },
+    "36": {
+      "name": "DAY 34",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=10&stdyDay=34&in=q"
+    },
+    "37": {
+      "name": "DAY 35",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=10&stdyDay=35&in=q"
+    },
+    "38": {
+      "name": "DAY 36",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=10&stdyDay=36&in=q"
+    },
+    "39": {
+      "name": "DAY 37",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=10&stdyDay=37&in=q"
+    },
+    "40": {
+      "name": "DAY 38",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=10&stdyDay=38&in=q"
+    },
+    "41": {
+      "name": "DAY 39",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=10&stdyDay=39&in=q"
+    },
+    "42": {
+      "name": "DAY 40",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=10&stdyDay=40&in=q"
+    },
+    "43": {
+      "name": "실력 인트로",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/intro.ebs?wordLevel=20&in=q"
+    },
+    "44": {
+      "name": "DAY 01",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=20&stdyDay=01&in=q"
+    },
+    "45": {
+      "name": "DAY 02",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=20&stdyDay=02&in=q"
+    },
+    "46": {
+      "name": "DAY 03",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=20&stdyDay=03&in=q"
+    },
+    "47": {
+      "name": "DAY 04",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=20&stdyDay=04&in=q"
+    },
+    "48": {
+      "name": "DAY 05",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=20&stdyDay=05&in=q"
+    },
+    "49": {
+      "name": "DAY 06",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=20&stdyDay=06&in=q"
+    },
+    "50": {
+      "name": "DAY 07",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=20&stdyDay=07&in=q"
+    },
+    "51": {
+      "name": "DAY 08",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=20&stdyDay=08&in=q"
+    },
+    "52": {
+      "name": "DAY 09",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=20&stdyDay=09&in=q"
+    },
+    "53": {
+      "name": "DAY 10",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=20&stdyDay=10&in=q"
+    },
+    "54": {
+      "name": "DAY 11",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=20&stdyDay=11&in=q"
+    },
+    "55": {
+      "name": "DAY 12",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=20&stdyDay=12&in=q"
+    },
+    "56": {
+      "name": "DAY 13",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=20&stdyDay=13&in=q"
+    },
+    "57": {
+      "name": "DAY 14",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=20&stdyDay=14&in=q"
+    },
+    "58": {
+      "name": "DAY 15",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=20&stdyDay=15&in=q"
+    },
+    "59": {
+      "name": "DAY 16",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=20&stdyDay=16&in=q"
+    },
+    "60": {
+      "name": "DAY 17",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=20&stdyDay=17&in=q"
+    },
+    "61": {
+      "name": "DAY 18",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=20&stdyDay=18&in=q"
+    },
+    "62": {
+      "name": "DAY 19",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=20&stdyDay=19&in=q"
+    },
+    "63": {
+      "name": "DAY 20",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=20&stdyDay=20&in=q"
+    },
+    "64": {
+      "name": "DAY 21",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=20&stdyDay=21&in=q"
+    },
+    "65": {
+      "name": "DAY 22",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=20&stdyDay=22&in=q"
+    },
+    "66": {
+      "name": "DAY 23",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=20&stdyDay=23&in=q"
+    },
+    "67": {
+      "name": "DAY 24",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=20&stdyDay=24&in=q"
+    },
+    "68": {
+      "name": "DAY 25",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=20&stdyDay=25&in=q"
+    },
+    "69": {
+      "name": "DAY 26",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=20&stdyDay=26&in=q"
+    },
+    "70": {
+      "name": "DAY 27",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=20&stdyDay=27&in=q"
+    },
+    "71": {
+      "name": "DAY 28",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=20&stdyDay=28&in=q"
+    },
+    "72": {
+      "name": "DAY 29",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=20&stdyDay=29&in=q"
+    },
+    "73": {
+      "name": "DAY 30",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=20&stdyDay=30&in=q"
+    },
+    "74": {
+      "name": "DAY 31",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=20&stdyDay=31&in=q"
+    },
+    "75": {
+      "name": "DAY 32",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=20&stdyDay=32&in=q"
+    },
+    "76": {
+      "name": "DAY 33",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=20&stdyDay=33&in=q"
+    },
+    "77": {
+      "name": "DAY 34",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=20&stdyDay=34&in=q"
+    },
+    "78": {
+      "name": "DAY 35",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=20&stdyDay=35&in=q"
+    },
+    "79": {
+      "name": "DAY 36",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=20&stdyDay=36&in=q"
+    },
+    "80": {
+      "name": "DAY 37",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=20&stdyDay=37&in=q"
+    },
+    "81": {
+      "name": "DAY 38",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=20&stdyDay=38&in=q"
+    },
+    "82": {
+      "name": "DAY 39",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=20&stdyDay=39&in=q"
+    },
+    "83": {
+      "name": "DAY 40",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=20&stdyDay=40&in=q"
+    },
+    "84": {
+      "name": "고난도 인트로",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/intro.ebs?wordLevel=30&in=q"
+    },
+    "85": {
+      "name": "DAY 01",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=30&stdyDay=01"
+    },
+    "86": {
+      "name": "DAY 02",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=30&stdyDay=02"
+    },
+    "87": {
+      "name": "DAY 03",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=30&stdyDay=03"
+    },
+    "88": {
+      "name": "DAY 04",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=30&stdyDay=04"
+    },
+    "89": {
+      "name": "DAY 05",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=30&stdyDay=05"
+    },
+    "90": {
+      "name": "DAY 06",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=30&stdyDay=06"
+    },
+    "91": {
+      "name": "DAY 07",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=30&stdyDay=07"
+    },
+    "92": {
+      "name": "DAY 08",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=30&stdyDay=08"
+    },
+    "93": {
+      "name": "DAY 09",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=30&stdyDay=09"
+    },
+    "94": {
+      "name": "DAY 10",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=30&stdyDay=10"
+    },
+    "95": {
+      "name": "DAY 11",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=30&stdyDay=11"
+    },
+    "96": {
+      "name": "DAY 12",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=30&stdyDay=12"
+    },
+    "97": {
+      "name": "DAY 13",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=30&stdyDay=13"
+    },
+    "98": {
+      "name": "DAY 14",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=30&stdyDay=14"
+    },
+    "99": {
+      "name": "DAY 15",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=30&stdyDay=15"
+    },
+    "100": {
+      "name": "DAY 16",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=30&stdyDay=16"
+    },
+    "101": {
+      "name": "DAY 17",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=30&stdyDay=17"
+    },
+    "102": {
+      "name": "DAY 18",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=30&stdyDay=18"
+    },
+    "103": {
+      "name": "DAY 19",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=30&stdyDay=19"
+    },
+    "104": {
+      "name": "DAY 20",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=30&stdyDay=20"
+    },
+    "105": {
+      "name": "DAY 21",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=30&stdyDay=21"
+    },
+    "106": {
+      "name": "DAY 22",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=30&stdyDay=22"
+    },
+    "107": {
+      "name": "DAY 23",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=30&stdyDay=23"
+    },
+    "108": {
+      "name": "DAY 24",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=30&stdyDay=24"
+    },
+    "109": {
+      "name": "DAY 25",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=30&stdyDay=25"
+    },
+    "110": {
+      "name": "DAY 26",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=30&stdyDay=26"
+    },
+    "111": {
+      "name": "DAY 27",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=30&stdyDay=27"
+    },
+    "112": {
+      "name": "DAY 28",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=30&stdyDay=28"
+    },
+    "113": {
+      "name": "DAY 29",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=30&stdyDay=29"
+    },
+    "114": {
+      "name": "DAY 30",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=30&stdyDay=30"
+    },
+    "115": {
+      "name": "DAY 31",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=30&stdyDay=31"
+    },
+    "116": {
+      "name": "DAY 32",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=30&stdyDay=32"
+    },
+    "117": {
+      "name": "DAY 33",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=30&stdyDay=33"
+    },
+    "118": {
+      "name": "DAY 34",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=30&stdyDay=34"
+    },
+    "119": {
+      "name": "DAY 35",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=30&stdyDay=35"
+    },
+    "120": {
+      "name": "DAY 36",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=30&stdyDay=36"
+    },
+    "121": {
+      "name": "DAY 37",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=30&stdyDay=37"
+    },
+    "122": {
+      "name": "DAY 38",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=30&stdyDay=38"
+    },
+    "123": {
+      "name": "DAY 39",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=30&stdyDay=39"
+    },
+    "124": {
+      "name": "DAY 40",
+      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
+      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=30&stdyDay=40"
+    }
+  }
+}
