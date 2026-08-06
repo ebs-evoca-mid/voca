@@ -1,626 +1,626 @@
 {
-  "switchDate": "2026-09-01",
-  "description": "EBS 단추플러스 중학 VOCA 학습장 QR (9/1 전환)",
+  "switchDate": "2026-08-06",
+  "description": "EBS 단추플러스 중학 VOCA 학습장 QR (2026-08-06 URL 일괄 변경)",
   "items": {
     "1": {
       "name": "VOCA 메인",
-      "beforeUrl": "https://mid.ebs.co.kr/main/middle",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/vocaMain.ebs&in=q"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/list/80168173/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/list/80168173/1//"
     },
     "2": {
       "name": "기본 인트로",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/introLearn.ebs?wordLevel=10",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/intro.ebs?wordLevel=10&in=q"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476718/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476718/1//"
     },
     "3": {
       "name": "DAY 01",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=10&stdyDay=01",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=10&stdyDay=01&in=q"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476718/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476718/1//"
     },
     "4": {
       "name": "DAY 02",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=10&stdyDay=02",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=10&stdyDay=02&in=q"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476718/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476718/1//"
     },
     "5": {
       "name": "DAY 03",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=10&stdyDay=03",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=10&stdyDay=03&in=q"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476718/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476718/1//"
     },
     "6": {
       "name": "DAY 04",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=10&stdyDay=04",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=10&stdyDay=04&in=q"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476718/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476718/1//"
     },
     "7": {
       "name": "DAY 05",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=10&stdyDay=05",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=10&stdyDay=05&in=q"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476718/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476718/1//"
     },
     "8": {
       "name": "DAY 06",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=10&stdyDay=06",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=10&stdyDay=06&in=q"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476718/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476718/1//"
     },
     "9": {
       "name": "DAY 07",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=10&stdyDay=07",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=10&stdyDay=07&in=q"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476718/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476718/1//"
     },
     "10": {
       "name": "DAY 08",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=10&stdyDay=08",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=10&stdyDay=08&in=q"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476718/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476718/1//"
     },
     "11": {
       "name": "DAY 09",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=10&stdyDay=09",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=10&stdyDay=09&in=q"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476718/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476718/1//"
     },
     "12": {
       "name": "DAY 10",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=10&stdyDay=10",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=10&stdyDay=10&in=q"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476718/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476718/1//"
     },
     "13": {
       "name": "DAY 11",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=10&stdyDay=11",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=10&stdyDay=11&in=q"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476718/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476718/1//"
     },
     "14": {
       "name": "DAY 12",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=10&stdyDay=12",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=10&stdyDay=12&in=q"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476718/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476718/1//"
     },
     "15": {
       "name": "DAY 13",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=10&stdyDay=13",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=10&stdyDay=13&in=q"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476718/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476718/1//"
     },
     "16": {
       "name": "DAY 14",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=10&stdyDay=14",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=10&stdyDay=14&in=q"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476718/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476718/1//"
     },
     "17": {
       "name": "DAY 15",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=10&stdyDay=15",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=10&stdyDay=15&in=q"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476718/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476718/1//"
     },
     "18": {
       "name": "DAY 16",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=10&stdyDay=16",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=10&stdyDay=16&in=q"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476718/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476718/1//"
     },
     "19": {
       "name": "DAY 17",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=10&stdyDay=17",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=10&stdyDay=17&in=q"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476718/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476718/1//"
     },
     "20": {
       "name": "DAY 18",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=10&stdyDay=18",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=10&stdyDay=18&in=q"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476718/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476718/1//"
     },
     "21": {
       "name": "DAY 19",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=10&stdyDay=19",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=10&stdyDay=19&in=q"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476718/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476718/1//"
     },
     "22": {
       "name": "DAY 20",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=10&stdyDay=20",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=10&stdyDay=20&in=q"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476718/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476718/1//"
     },
     "23": {
       "name": "DAY 21",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=10&stdyDay=21",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=10&stdyDay=21&in=q"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476718/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476718/1//"
     },
     "24": {
       "name": "DAY 22",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=10&stdyDay=22",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=10&stdyDay=22&in=q"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476718/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476718/1//"
     },
     "25": {
       "name": "DAY 23",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=10&stdyDay=23",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=10&stdyDay=23&in=q"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476718/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476718/1//"
     },
     "26": {
       "name": "DAY 24",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=10&stdyDay=24",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=10&stdyDay=24&in=q"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476718/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476718/1//"
     },
     "27": {
       "name": "DAY 25",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=10&stdyDay=25",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=10&stdyDay=25&in=q"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476718/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476718/1//"
     },
     "28": {
       "name": "DAY 26",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=10&stdyDay=26",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=10&stdyDay=26&in=q"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476718/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476718/1//"
     },
     "29": {
       "name": "DAY 27",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=10&stdyDay=27",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=10&stdyDay=27&in=q"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476718/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476718/1//"
     },
     "30": {
       "name": "DAY 28",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=10&stdyDay=28",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=10&stdyDay=28&in=q"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476718/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476718/1//"
     },
     "31": {
       "name": "DAY 29",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=10&stdyDay=29",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=10&stdyDay=29&in=q"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476718/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476718/1//"
     },
     "32": {
       "name": "DAY 30",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=10&stdyDay=30",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=10&stdyDay=30&in=q"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476718/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476718/1//"
     },
     "33": {
       "name": "DAY 31",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=10&stdyDay=31",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=10&stdyDay=31&in=q"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476718/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476718/1//"
     },
     "34": {
       "name": "DAY 32",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=10&stdyDay=32",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=10&stdyDay=32&in=q"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476718/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476718/1//"
     },
     "35": {
       "name": "DAY 33",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=10&stdyDay=33",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=10&stdyDay=33&in=q"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476718/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476718/1//"
     },
     "36": {
       "name": "DAY 34",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=10&stdyDay=34",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=10&stdyDay=34&in=q"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476718/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476718/1//"
     },
     "37": {
       "name": "DAY 35",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=10&stdyDay=35",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=10&stdyDay=35&in=q"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476718/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476718/1//"
     },
     "38": {
       "name": "DAY 36",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=10&stdyDay=36",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=10&stdyDay=36&in=q"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476718/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476718/1//"
     },
     "39": {
       "name": "DAY 37",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=10&stdyDay=37",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=10&stdyDay=37&in=q"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476718/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476718/1//"
     },
     "40": {
       "name": "DAY 38",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=10&stdyDay=38",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=10&stdyDay=38&in=q"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476718/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476718/1//"
     },
     "41": {
       "name": "DAY 39",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=10&stdyDay=39",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=10&stdyDay=39&in=q"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476718/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476718/1//"
     },
     "42": {
       "name": "DAY 40",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=10&stdyDay=40",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=10&stdyDay=40&in=q"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476718/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476718/1//"
     },
     "43": {
       "name": "실력 인트로",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/introLearn.ebs?wordLevel=20",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/intro.ebs?wordLevel=20&in=q"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476719/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476719/1//"
     },
     "44": {
       "name": "DAY 01",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=20&stdyDay=01",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=20&stdyDay=01&in=q"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476719/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476719/1//"
     },
     "45": {
       "name": "DAY 02",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=20&stdyDay=02",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=20&stdyDay=02&in=q"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476719/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476719/1//"
     },
     "46": {
       "name": "DAY 03",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=20&stdyDay=03",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=20&stdyDay=03&in=q"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476719/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476719/1//"
     },
     "47": {
       "name": "DAY 04",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=20&stdyDay=04",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=20&stdyDay=04&in=q"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476719/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476719/1//"
     },
     "48": {
       "name": "DAY 05",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=20&stdyDay=05",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=20&stdyDay=05&in=q"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476719/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476719/1//"
     },
     "49": {
       "name": "DAY 06",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=20&stdyDay=06",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=20&stdyDay=06&in=q"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476719/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476719/1//"
     },
     "50": {
       "name": "DAY 07",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=20&stdyDay=07",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=20&stdyDay=07&in=q"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476719/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476719/1//"
     },
     "51": {
       "name": "DAY 08",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=20&stdyDay=08",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=20&stdyDay=08&in=q"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476719/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476719/1//"
     },
     "52": {
       "name": "DAY 09",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=20&stdyDay=09",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=20&stdyDay=09&in=q"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476719/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476719/1//"
     },
     "53": {
       "name": "DAY 10",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=20&stdyDay=10",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=20&stdyDay=10&in=q"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476719/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476719/1//"
     },
     "54": {
       "name": "DAY 11",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=20&stdyDay=11",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=20&stdyDay=11&in=q"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476719/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476719/1//"
     },
     "55": {
       "name": "DAY 12",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=20&stdyDay=12",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=20&stdyDay=12&in=q"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476719/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476719/1//"
     },
     "56": {
       "name": "DAY 13",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=20&stdyDay=13",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=20&stdyDay=13&in=q"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476719/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476719/1//"
     },
     "57": {
       "name": "DAY 14",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=20&stdyDay=14",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=20&stdyDay=14&in=q"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476719/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476719/1//"
     },
     "58": {
       "name": "DAY 15",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=20&stdyDay=15",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=20&stdyDay=15&in=q"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476719/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476719/1//"
     },
     "59": {
       "name": "DAY 16",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=20&stdyDay=16",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=20&stdyDay=16&in=q"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476719/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476719/1//"
     },
     "60": {
       "name": "DAY 17",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=20&stdyDay=17",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=20&stdyDay=17&in=q"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476719/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476719/1//"
     },
     "61": {
       "name": "DAY 18",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=20&stdyDay=18",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=20&stdyDay=18&in=q"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476719/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476719/1//"
     },
     "62": {
       "name": "DAY 19",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=20&stdyDay=19",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=20&stdyDay=19&in=q"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476719/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476719/1//"
     },
     "63": {
       "name": "DAY 20",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=20&stdyDay=20",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=20&stdyDay=20&in=q"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476719/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476719/1//"
     },
     "64": {
       "name": "DAY 21",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=20&stdyDay=21",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=20&stdyDay=21&in=q"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476719/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476719/1//"
     },
     "65": {
       "name": "DAY 22",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=20&stdyDay=22",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=20&stdyDay=22&in=q"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476719/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476719/1//"
     },
     "66": {
       "name": "DAY 23",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=20&stdyDay=23",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=20&stdyDay=23&in=q"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476719/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476719/1//"
     },
     "67": {
       "name": "DAY 24",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=20&stdyDay=24",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=20&stdyDay=24&in=q"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476719/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476719/1//"
     },
     "68": {
       "name": "DAY 25",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=20&stdyDay=25",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=20&stdyDay=25&in=q"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476719/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476719/1//"
     },
     "69": {
       "name": "DAY 26",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=20&stdyDay=26",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=20&stdyDay=26&in=q"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476719/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476719/1//"
     },
     "70": {
       "name": "DAY 27",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=20&stdyDay=27",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=20&stdyDay=27&in=q"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476719/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476719/1//"
     },
     "71": {
       "name": "DAY 28",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=20&stdyDay=28",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=20&stdyDay=28&in=q"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476719/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476719/1//"
     },
     "72": {
       "name": "DAY 29",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=20&stdyDay=29",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=20&stdyDay=29&in=q"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476719/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476719/1//"
     },
     "73": {
       "name": "DAY 30",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=20&stdyDay=30",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=20&stdyDay=30&in=q"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476719/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476719/1//"
     },
     "74": {
       "name": "DAY 31",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=20&stdyDay=31",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=20&stdyDay=31&in=q"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476719/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476719/1//"
     },
     "75": {
       "name": "DAY 32",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=20&stdyDay=32",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=20&stdyDay=32&in=q"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476719/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476719/1//"
     },
     "76": {
       "name": "DAY 33",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=20&stdyDay=33",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=20&stdyDay=33&in=q"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476719/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476719/1//"
     },
     "77": {
       "name": "DAY 34",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=20&stdyDay=34",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=20&stdyDay=34&in=q"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476719/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476719/1//"
     },
     "78": {
       "name": "DAY 35",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=20&stdyDay=35",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=20&stdyDay=35&in=q"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476719/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476719/1//"
     },
     "79": {
       "name": "DAY 36",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=20&stdyDay=36",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=20&stdyDay=36&in=q"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476719/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476719/1//"
     },
     "80": {
       "name": "DAY 37",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=20&stdyDay=37",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=20&stdyDay=37&in=q"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476719/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476719/1//"
     },
     "81": {
       "name": "DAY 38",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=20&stdyDay=38",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=20&stdyDay=38&in=q"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476719/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476719/1//"
     },
     "82": {
       "name": "DAY 39",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=20&stdyDay=39",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=20&stdyDay=39&in=q"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476719/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476719/1//"
     },
     "83": {
       "name": "DAY 40",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=20&stdyDay=40",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=20&stdyDay=40&in=q"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476719/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476719/1//"
     },
     "84": {
       "name": "고난도 인트로",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/introLearn.ebs?wordLevel=30",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/intro.ebs?wordLevel=30&in=q"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476720/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476720/1//"
     },
     "85": {
       "name": "DAY 01",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=30&stdyDay=01",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=30&stdyDay=01"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476720/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476720/1//"
     },
     "86": {
       "name": "DAY 02",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=30&stdyDay=02",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=30&stdyDay=02"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476720/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476720/1//"
     },
     "87": {
       "name": "DAY 03",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=30&stdyDay=03",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=30&stdyDay=03"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476720/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476720/1//"
     },
     "88": {
       "name": "DAY 04",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=30&stdyDay=04",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=30&stdyDay=04"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476720/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476720/1//"
     },
     "89": {
       "name": "DAY 05",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=30&stdyDay=05",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=30&stdyDay=05"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476720/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476720/1//"
     },
     "90": {
       "name": "DAY 06",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=30&stdyDay=06",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=30&stdyDay=06"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476720/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476720/1//"
     },
     "91": {
       "name": "DAY 07",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=30&stdyDay=07",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=30&stdyDay=07"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476720/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476720/1//"
     },
     "92": {
       "name": "DAY 08",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=30&stdyDay=08",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=30&stdyDay=08"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476720/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476720/1//"
     },
     "93": {
       "name": "DAY 09",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=30&stdyDay=09",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=30&stdyDay=09"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476720/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476720/1//"
     },
     "94": {
       "name": "DAY 10",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=30&stdyDay=10",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=30&stdyDay=10"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476720/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476720/1//"
     },
     "95": {
       "name": "DAY 11",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=30&stdyDay=11",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=30&stdyDay=11"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476720/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476720/1//"
     },
     "96": {
       "name": "DAY 12",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=30&stdyDay=12",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=30&stdyDay=12"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476720/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476720/1//"
     },
     "97": {
       "name": "DAY 13",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=30&stdyDay=13",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=30&stdyDay=13"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476720/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476720/1//"
     },
     "98": {
       "name": "DAY 14",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=30&stdyDay=14",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=30&stdyDay=14"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476720/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476720/1//"
     },
     "99": {
       "name": "DAY 15",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=30&stdyDay=15",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=30&stdyDay=15"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476720/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476720/1//"
     },
     "100": {
       "name": "DAY 16",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=30&stdyDay=16",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=30&stdyDay=16"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476720/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476720/1//"
     },
     "101": {
       "name": "DAY 17",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=30&stdyDay=17",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=30&stdyDay=17"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476720/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476720/1//"
     },
     "102": {
       "name": "DAY 18",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=30&stdyDay=18",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=30&stdyDay=18"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476720/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476720/1//"
     },
     "103": {
       "name": "DAY 19",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=30&stdyDay=19",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=30&stdyDay=19"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476720/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476720/1//"
     },
     "104": {
       "name": "DAY 20",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=30&stdyDay=20",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=30&stdyDay=20"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476720/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476720/1//"
     },
     "105": {
       "name": "DAY 21",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=30&stdyDay=21",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=30&stdyDay=21"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476720/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476720/1//"
     },
     "106": {
       "name": "DAY 22",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=30&stdyDay=22",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=30&stdyDay=22"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476720/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476720/1//"
     },
     "107": {
       "name": "DAY 23",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=30&stdyDay=23",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=30&stdyDay=23"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476720/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476720/1//"
     },
     "108": {
       "name": "DAY 24",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=30&stdyDay=24",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=30&stdyDay=24"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476720/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476720/1//"
     },
     "109": {
       "name": "DAY 25",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=30&stdyDay=25",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=30&stdyDay=25"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476720/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476720/1//"
     },
     "110": {
       "name": "DAY 26",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=30&stdyDay=26",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=30&stdyDay=26"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476720/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476720/1//"
     },
     "111": {
       "name": "DAY 27",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=30&stdyDay=27",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=30&stdyDay=27"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476720/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476720/1//"
     },
     "112": {
       "name": "DAY 28",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=30&stdyDay=28",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=30&stdyDay=28"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476720/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476720/1//"
     },
     "113": {
       "name": "DAY 29",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=30&stdyDay=29",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=30&stdyDay=29"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476720/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476720/1//"
     },
     "114": {
       "name": "DAY 30",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=30&stdyDay=30",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=30&stdyDay=30"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476720/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476720/1//"
     },
     "115": {
       "name": "DAY 31",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=30&stdyDay=31",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=30&stdyDay=31"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476720/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476720/1//"
     },
     "116": {
       "name": "DAY 32",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=30&stdyDay=32",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=30&stdyDay=32"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476720/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476720/1//"
     },
     "117": {
       "name": "DAY 33",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=30&stdyDay=33",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=30&stdyDay=33"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476720/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476720/1//"
     },
     "118": {
       "name": "DAY 34",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=30&stdyDay=34",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=30&stdyDay=34"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476720/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476720/1//"
     },
     "119": {
       "name": "DAY 35",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=30&stdyDay=35",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=30&stdyDay=35"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476720/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476720/1//"
     },
     "120": {
       "name": "DAY 36",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=30&stdyDay=36",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=30&stdyDay=36"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476720/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476720/1//"
     },
     "121": {
       "name": "DAY 37",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=30&stdyDay=37",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=30&stdyDay=37"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476720/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476720/1//"
     },
     "122": {
       "name": "DAY 38",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=30&stdyDay=38",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=30&stdyDay=38"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476720/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476720/1//"
     },
     "123": {
       "name": "DAY 39",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=30&stdyDay=39",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=30&stdyDay=39"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476720/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476720/1//"
     },
     "124": {
       "name": "DAY 40",
-      "beforeUrl": "https://ai-plus.ebs.co.kr/single/midVoca/learnDetail.ebs?wordLevel=30&stdyDay=40",
-      "afterUrl": "https://ai-plus.ebs.co.kr/single/midVoca/detail.ebs?wordLevel=30&stdyDay=40"
+      "beforeUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476720/1//",
+      "afterUrl": "https://mid.ebs.co.kr/book/mp3/index#mp3/view/80168173/60000476720/1//"
     }
   }
 }
